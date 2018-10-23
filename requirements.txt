@@ -1,0 +1,14 @@
+astroML
+astroML-addons
+cycler
+kiwisolver
+matplotlib
+numpy
+pandas
+pyparsing
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+sklearn
